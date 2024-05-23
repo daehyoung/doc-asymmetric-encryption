@@ -9,8 +9,8 @@
 
 
 # 경제
-## [돈](money.md)
-## [신용화폐](flat-money-system.md)
-## [금태환화폐](gold-standard.md)
-## [신용화폐와 경제](enconomy-currency.md)
-## [신용화폐의 위기](currency-crisis.md)
+## [돈](./money.md)
+## [신용화폐](./fiat-money-system.md)
+## [금본위제](./gold-standard.md)
+## [신용화폐와 경제](./enconomy-currency.md)
+## [신용화폐의 위기](./currency-crisis.md)
