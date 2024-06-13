@@ -61,6 +61,15 @@
 9. 트랜잭션이 블록에 포함되면 거래소 화면의 상태가 변경된다.
 - 처음 블록에 기록되면 상태에 "1 Confirmations" 이라고 표시된다. 두 번째 블록이 생성되면 트랜잭션은 "2 Confirmations"를 받게 된다. 비트코인 네트워크에서는 일반적으로 6번의 확인을 받으면 트랜잭션이 완전히 안전한 것으로 간주된다.
 - "6 Confirmations" 까지 약 1시간에서 1시간 30분 정도 소요된다.
+ 
+- 트랜잭션 포함 블록:
+  - 블록 N: 트랜잭션이 포함됨 (1 Confirmation)
+- 추가 블록:
+  - 블록 N+1: 2 Confirmations
+  - 블록 N+2: 3 Confirmations
+  - 블록 N+3: 4 Confirmations
+  - 블록 N+4: 5 Confirmations
+  - 블록 N+5: 6 Confirmations
 
 
     
